@@ -1,0 +1,2 @@
+# TypeEffectVanilla JS
+ 
